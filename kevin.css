@@ -1,0 +1,77 @@
+.btn{
+	box-shadow: inset 2px 4px 5px -3px rgba(0,0,0,0.6);
+	padding-top:5px;
+	margin-top: 10px;
+	font-size:15px;
+	padding-left:-20px;
+	padding-left:30px;
+	border-radius:20px;
+	transition:0.2s ease;
+}
+
+.container1{
+	padding-left:16%;
+}
+
+.profile{
+	margin-left: 13%;
+	margin-TOP:  20px;
+	border-radius: 60px;
+}
+
+.profile-Name{
+margin-left: 16.5%;
+margin-top: -30px;
+
+}
+
+.kevin-box{
+	box-shadow: 4px 3px 63px 26px rgba(20,22,20,0.6);
+	border-radius: 10px;
+	text-align: center;
+	margin-left:6%;
+	margin-right:20%;
+	padding-bottom:20px;
+	padding-top:20px;
+	border-radius: 20px;
+	margin-top:-22%;
+	border-style: none;
+
+}
+
+
+.kevin-box-2{
+	box-shadow: 2px 4px 6px 12px rgba(20,20,20,0.4);
+	border-radius:60%;
+	padding-left:25%;
+	margin-left:6%;
+	margin-right:20%;
+	margin-bottom:20px;
+	padding-bottom:20px;
+}
+
+.Kevin-imm{
+	border-radius:60px;
+	margin-left: 6%;
+	margin-bottom: 50px:
+}
+.iconn{
+font-size:75px;
+font-weight: 600;
+}
+
+.list{
+list-style-type:none;
+color:black;
+}
+
+ul.horizontal-list li{ 
+margin-right: 40px; 
+}
+
+.ten{
+	color:black;
+}
+.banner{
+	border-radius:20px;
+}
